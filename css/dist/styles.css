@@ -518,6 +518,9 @@ footer .footer .footer-start .footer-social {
   margin-bottom: 50px;
   text-align: center;
 }
+footer .footer .footer-start .footer-social a {
+  text-decoration: none;
+}
 footer .footer .footer-start .footer-social form {
   display: flex;
   margin-bottom: 50px;
